@@ -1,0 +1,38 @@
+Outlands: Hirluin/Beregond/Denethor
+
+Hero (3)
+Hirluin the Fair (TSF) x1
+Beregond (HON) x1
+Denethor (Core) x1
+
+
+Ally (23)
+Anfalas Herdsman (TSF) x3
+Ethir Swordsman (TSF) x3
+Hunter of Lamedon (HON) x3
+Knights of the Swan (TSF) x3
+Warrior of Lossarnach (TSF) x3
+Beorn (Core) x2
+Gandalf (Core) x3
+Errand-rider (HON) x2
+Defender of Rammas (HON) x1
+
+
+Attachment (13)
+Gondorian Shield (TSF) x3
+Spear of the Citadel (HON) x3
+Healing Herbs (FoS) x1
+Dunedain Warning (CatC) x2
+Steward of Gondor (Core) x2
+A Burning Brand (CatC) x2
+
+
+Event (14)
+A Good Harvest (TSF) x1
+Lorien's Wealth (Core) x2
+Daeron's Runes (FoS) x3
+We Are Not Idle (SaF) x2
+A Very Good Tale (OHaUH) x3
+Sneak Attack (Core) x3
+
+

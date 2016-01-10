@@ -1,0 +1,39 @@
+Rangers and Traps
+
+Hero (3)
+Faramir (AoO) x1
+Mirlonde (TDF) x1
+Glorfindel (FoS) x1
+
+
+Ally (15)
+Ithilien Archer (EaAD) x3
+Ithilien Tracker (HON) x2
+Master of the Forge (SaF) x3
+Damrod (HON) x1
+Northern Tracker (Core) x3
+Anborn (TBoG) x3
+
+
+Attachment (19)
+Ranger Spikes (HON) x3
+Ithilien Pit (EaAD) x3
+Forest Snare (Core) x3
+Asfaloth (FoS) x2
+Light of Valinor (FoS) x1
+Ranger Bow (AoO) x1
+Resourceful (TWitW) x3
+Poisoned Stakes (TBoG) x3
+
+
+Event (20)
+Forest Patrol (AoO) x3
+Mithrandir's Advice (TSF) x3
+A Light in the Dark (Core) x2
+Risk Some Light (SaF) x2
+Elrond's Counsel (TWitW) x3
+The Galadhrim's Greeting (Core) x3
+Daeron's Runes (FoS) x3
+Needful to Know (TRG) x1
+
+

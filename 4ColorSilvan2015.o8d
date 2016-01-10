@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4c4cccd3-576a-41f1-8b6c-ba11b4cc3d4b">Celeborn</card>
+    <card qty="1" id="3d09a998-9ad0-4b98-9c42-50c4226cc73b">Galadriel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9005">Legolas</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="4b794779-c6b6-4ee0-b13f-196b721e28a7">Rúmil</card>
+    <card qty="3" id="dad6e885-d535-4100-bd9f-4726ea7c7465">Naith Guide</card>
+    <card qty="3" id="bd81ff6a-9c8f-415e-85fb-da84c21ef2a4">Galadhrim Minstrel</card>
+    <card qty="3" id="39775f69-5cf4-4133-9cf4-45a1522aa9ea">Galadhon Archer</card>
+    <card qty="3" id="ff3794e8-d8b1-48dc-a9f8-97ea7d6b3874">Galadriel's Handmaiden</card>
+    <card qty="3" id="b91ba94d-e6b9-41f6-89ed-df1fb1f22335">Defender of the Naith</card>
+    <card qty="3" id="9220dbae-e7fc-43fc-b772-043af7d4bda1">Orophin</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="b4d93180-0ebc-4a9b-9817-e761068570e3">O Lórien!</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="3" id="12d436ac-15e6-47c5-8288-357c918071a7">Bow of the Galadhrim</card>
+    <card qty="3" id="6e97a705-2458-4aa1-ad90-f3cd8200ca5a">Mirror of Galadriel</card>
+    <card qty="3" id="17ed9b53-19f5-4ad1-ab91-14c2859e5a60">Nenya</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9070">Protector of Lórien</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="14936075-9e6a-43af-9497-dbee9df95781">Feigned Voices</card>
+    <card qty="3" id="af74e00e-a04e-4a15-a538-d36539bfb751">Pursuing the Enemy</card>
+    <card qty="3" id="f39eaad9-134d-406b-9111-e03c33e0cd16">The Tree People</card>
+    <card qty="3" id="26a52bdc-f8e4-40a3-8047-8d696b842cdf">Island Amid Perils</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801210c9013">Rivendell Bow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801209c9023">Rivendell Blade</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9020">Light of Valinor</card>
+    <card qty="2" id="f86ea37a-d70d-4ff2-ac36-2a0ff1f7ffa9">Lembas</card>
+    <card qty="2" id="6b86cf8e-1708-434d-90a5-93163f3d61ea">Elven Mail</card>
+    <card qty="3" id="f40cc90c-02df-464b-a401-6640aa93e2f8">Cloak of Lorien</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Silvan deck with all four colors, thanks to Galadriel and Nenya. This is the deck as it existed in April 2015. Never tested yet, so I might still tweak it.
+
+Note that Éomer might make a great replacement for Legolas. He couldn't receive a Bow of the Galadhrim, but he'd get +2 ATK every round anyway from characters constantly leaving play. But as constituted, the deck had Legolas rather than Éomer.]]></notes>
+</deck>

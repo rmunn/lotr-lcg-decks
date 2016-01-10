@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9012">Beravor</card>
+    <card qty="1" id="323ebfa3-57e5-4394-9f55-284b2f7ee0be">Faramir</card>
+    <card qty="1" id="536c80ba-ad8b-447e-b378-1684508eb0f9">Mirlonde</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="ef8aec20-e0c9-4d02-9dea-20b6e7c2278b">Anborn</card>
+    <card qty="2" id="3eb1141f-bf1f-401e-a69d-e4df0af2a8ab">Ered Nimrais Prospector</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a90028">Ithilien Archer</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9048">Ithilien Tracker</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9015">Master of the Forge</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="1" id="2d550e71-f2a6-41f2-8aac-4533a965eb71">Expert Treasure-hunter</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9069">Forest Snare</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a90029">Ithilien Pit</card>
+    <card qty="3" id="30e0c679-3ced-4862-a681-b67ceb8939d3">Poisoned Stakes</card>
+    <card qty="3" id="3fa0b17f-a7d1-4f0c-a779-c20cb6084e78">Ranger Bow</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9071">Ranger Spikes</card>
+    <card qty="3" id="63c6bd3a-5566-412d-9199-3929d2fc3cf2">Scroll of Isildur</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="e678be7e-8048-458d-b4f9-25c2a718fabb">Advance Warning</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9010">Daeron's Runes</card>
+    <card qty="3" id="50aa4aab-6daa-4cb5-bfb1-a13db03c1a23">Forest Patrol</card>
+    <card qty="3" id="6a871e9e-fa3e-4556-8730-09aed1a3ec40">Hidden Cache</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9006">Infighting</card>
+    <card qty="3" id="3c47d373-62bc-4321-9dc1-9b86b2046f68">Mithrandir's Advice</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Mono-Lore Ranger/Traps deck. Still needs testing.
+
+Expert Treasure-Hunter names Attachment, usually.
+
+Consider replacing Ithilien Trackers with Ithilien Lookouts. Actually, just re-vamp the deck entirely as it's really not very good.
+
+Deck as it existed in April 2015.]]></notes>
+</deck>

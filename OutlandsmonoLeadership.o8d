@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="85699571-9cc3-4ccc-98b0-0e1664893ef5">Hirluin the Fair</card>
+    <card qty="1" id="bf2cb5a8-2ec6-4366-89f6-7e3010686a85">Balin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9002">Théodred</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="4cb4741d-c9d8-4d62-ab4f-50fa80c59fbb">Anfalas Herdsman</card>
+    <card qty="3" id="1c149f93-9e3b-42fa-878c-80b29563a283">Ethir Swordsman</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9045">Hunter of Lamedon</card>
+    <card qty="3" id="c00844d6-1c3c-4e8c-a46c-8de15b8408df">Knights of the Swan</card>
+    <card qty="3" id="2e84d805-365c-47ea-9c4f-e3f75daeb9a6">Warrior of Lossarnach</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9016">Errand-rider</card>
+    <card qty="2" id="c6ae1840-dd7d-46ea-baf8-6d30614506de">Forlong</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9008">Erestor</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a90023">Lord of Morthond</card>
+    <card qty="3" id="e88d7165-821c-4b04-9869-80ee1f33905c">Tome of Atanatar</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9028">Path of Need</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9011">A Very Good Tale</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9023">Sneak Attack</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9003">Campfire Tales</card>
+    <card qty="3" id="91f28bdf-4b78-4750-9853-65e783e4cb15">Strength of Arms</card>
+    <card qty="3" id="a2d440c4-6150-4b6f-9a36-faa51ace7908">Men of the West</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9024">Valiant Sacrifice</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801202c9024">Second Breakfast</card>
+    <card qty="1" id="bd20ff6a-d77f-47d8-81dd-202e5f21cfaf">Timely Aid</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Everyone needs an Outlands deck. Who needs strategy when you've got Slivers... I mean Outlands allies?
+
+This is a mono-Leadership build. If playing with another deck that also includes Steward of Gondor, the 4-cost cards might be replaced with a second or third copy of some of the 1-cost events like Campfire Tales, Valient Sacrifice, and Second Breakfast.
+]]></notes>
+</deck>

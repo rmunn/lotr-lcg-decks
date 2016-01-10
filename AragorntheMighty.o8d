@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9001">Aragorn</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False">
+    <card qty="1" id="418e6de7-af19-4ea7-bfbe-2a02838c6de4">Dagger of Westernesse</card>
+    <card qty="1" id="9bb32f2c-29fb-43ba-b7ba-2227b28f7b58">Elf-stone</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="1" id="1e9a6c59-8dc7-4dc4-a5a4-f5f4f9ccdc55">Palantir</card>
+    <card qty="1" id="0ef9e385-b7e5-4676-a690-2dd8031aa8c8">Ring of Barahir</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9018">Sword that was Broken</card>
+    <card qty="1" id="f4490261-317e-4e9e-9440-a5c58dcddcbf">Thror's Key</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9084">Thrór's Map</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9027">Celebrían's Stone</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9013">Rivendell Bow</card>
+  </section>
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

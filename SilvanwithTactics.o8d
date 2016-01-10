@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4c4cccd3-576a-41f1-8b6c-ba11b4cc3d4b">Celeborn</card>
+    <card qty="1" id="21cfb9e9-6777-4bc6-ace6-08fe68e949a4">Éomer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9007">Éowyn</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="2" id="4b794779-c6b6-4ee0-b13f-196b721e28a7">Rúmil</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9044">Lórien Guide</card>
+    <card qty="3" id="dad6e885-d535-4100-bd9f-4726ea7c7465">Naith Guide</card>
+    <card qty="3" id="e4fd6e25-982a-464f-82d8-812269864d46">Silvan Refugee</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9017">Silverlode Archer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9058">Daughter of the Nimrodel</card>
+    <card qty="3" id="bd81ff6a-9c8f-415e-85fb-da84c21ef2a4">Galadhrim Minstrel</card>
+    <card qty="3" id="39775f69-5cf4-4133-9cf4-45a1522aa9ea">Galadhon Archer</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="1" id="6b86cf8e-1708-434d-90a5-93163f3d61ea">Elven Mail</card>
+    <card qty="1" id="f86ea37a-d70d-4ff2-ac36-2a0ff1f7ffa9">Lembas</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9020">Light of Valinor</card>
+    <card qty="3" id="b4d93180-0ebc-4a9b-9817-e761068570e3">O Lórien!</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801209c9023">Rivendell Blade</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9013">Rivendell Bow</card>
+    <card qty="3" id="0ef9e385-b7e5-4676-a690-2dd8031aa8c8">Ring of Barahir</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9039">Blade of Gondolin</card>
+    <card qty="1" id="0ee1f1e6-1952-4bad-8ecd-631e80f4ccc0">Firefoot</card>
+    <card qty="1" id="09134509-191b-4903-b4b5-5e650f8143c1">Gondorian Shield</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="14936075-9e6a-43af-9497-dbee9df95781">Feigned Voices</card>
+    <card qty="3" id="af74e00e-a04e-4a15-a538-d36539bfb751">Pursuing the Enemy</card>
+    <card qty="3" id="f39eaad9-134d-406b-9111-e03c33e0cd16">The Tree People</card>
+    <card qty="3" id="65d3b334-df93-43c6-9525-12674bbb7f06">Children of the Sea</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9010">Daeron's Runes</card>
+    <card qty="3" id="26a52bdc-f8e4-40a3-8047-8d696b842cdf">Island Amid Perils</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Wait, TWENTY attachments?! Gotta reduce that... somehow.
+
+TODO: Make a new listing with the REAL card set that I actually put together.]]></notes>
+</deck>

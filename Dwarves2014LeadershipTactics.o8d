@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801206c9005">Dáin Ironfoot</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9083">Thorin Oakenshield</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9006">Thalin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9032">Fili</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9055">Kili</card>
+    <card qty="2" id="6778eb01-6b07-4dbe-87f1-e854ab548813">Gloin</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9021">Longbeard Elder</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9019">Bofur</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9007">Erebor Battle Master</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9028">Veteran Axehand</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9008">Hardy Leadership</card>
+    <card qty="2" id="9152834a-5355-42ba-9592-1a3c1940d1a8">King Under the Mountain</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9015">Song of Battle</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9026">Dwarrowdelf Axe</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9050">Narvi's Belt</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9041">Dwarven Axe</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801209c9015">Lure of Moria</card>
+    <card qty="3" id="16ae4f56-d8bb-41b8-a992-1da3b6ec1fdb">To me! O my kinsfolk!</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9018">Heavy Stroke</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9044">Khazâd! Khazâd!</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9024">Durin's Song</card>
+    <card qty="3" id="add42229-f5d1-4c39-a5dd-ec00ad7d0d76">Gaining Strength</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9028">We Are Not Idle</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9023">Sneak Attack</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

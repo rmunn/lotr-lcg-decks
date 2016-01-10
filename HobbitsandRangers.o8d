@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9001">Bilbo Baggins</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801202c9001">Frodo Baggins</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a90021">Pippin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a90028">Ithilien Archer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9008">Keen-eyed Took</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9043">Wandering Took</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9012">Boots from Erebor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9006">Fast Hitch</card>
+    <card qty="1" id="97016882-11f8-428c-9f3f-43bb51aacb38">Good Meal</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9021">Ring Mail</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a90030">Hobbit-sense</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9014">Short Cut</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a90027">Small Target</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[
+Still in process.
+
+Not yet in deckbuilder (UPDATE: now they are, so add them):
+
+Anborn (unique cost 4 Lore ally)
+1/3/1, 3 HP. Gondor. Ranger. Action: Exhaust Anborn to return 1 Trap card from your discard pile to your hand.
+
+Poisoned Stakes (cost 2 Lore attachment)
+Trap. Play into staging area unattached. If unattached, attach to next eligible enemy that enters staging area. At end of round, deal 2 damage to attached enemy.
+
+Hobbit heroes (need to pick 3 of them to use):
+Fatty Bolger (unique threat cost 7 Spirit hero)
+1/1/2, 3 HP. Hobbit. Action: Exhaust Fatty Bolger to choose an enemy in the staging area and raise your threat by that enemy's Threat. Until the end of the phase, that enemy does not contribute its Threat. (Limit once per round).
+Merry (unique threat cost 6 Tactics hero)
+2/0/1, 2 HP. Hobbit. Gets +1 Attack for each Hobbit hero you control. Response: After Merry participates in an attack that destroys an enemy, ready another character that participated in the attack.
+Pippin (unique threat cost 6 Lore hero)
+2/1/1, 2 HP. Hobbit. Each enemy in play gets +1 engagement cost for each Hobbit hero you control. Response: After you engage an enemy with a higher engagement cost than your threat, draw a card.
+Sam Gamgee (unique threat cost 8 Leadership hero)
+3/1/1, 3 HP, Hobbit. Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee. He gets +1 W, +1 A, and +1 D until the end of the round.
+
+Barliman Butterbur (unique cost 2 Lore ally)
+1/0/1, 3 HP. Bree. If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur.
+
+Take No Notice (cost 3-&gt;0 Lore event)
+Lower the cost to play Take No Notice by 1 for each Hobbit or Ranger hero you control. Action: Add 5 to each enemy's engagement cost until the end of the round.
+
+Hobbit Cloak (cost 1 Leadership attachment)
+Attach to a Hobbit hero. Limit 1 per hero. Attached hero gets +2 D when defending against an attack made by an enemy with an engagement cost higher than your threat.
+
+Bill the Pony (cost 2-&gt;0 Leadership ally)
+Lower the cost to play Bill the Pony by 2 if you control Sam Gamgee. Cannot have attachments. Each Hobbit character gets +1 hit point.
+
+Dagger of Westernesse (cost 1 Tactics attachment)
+Artifact. Item. Weapon. Attach to a hero. Restricted. Attached hero gets +1 A (+2 A instead if attacking an enemy with an engagement cost higher than your threat).
+
+(Elf-Stone? Allows putting allies into play for free... not in this deck)
+
+Farmer Maggot (unique cost 3 Tactics ally)
+1/2/0, 2 HP. Hobbit. Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy's engagement cost is higher than your threat.)
+
+Halfling Determination (cost 1 Tactics event)
+Action: Choose a Hobbit character. That character gets +2 W, +2 A, +2 D until end of phase.
+
+Hobbit Pipe (cost 0 Spirit attachment)
+Item. Pipe. Attach to a Hobbit. Limit 1 per character. Response: After your threat is reduced by an event card effect, exhaust Hobbit Pipe to draw a card.
+
+Smoke Rings (cost 2 Spirit event)
+Action: Reduce your threat by 1 for each Pipe you control. Each hero with a Pipe attachment gets +1 Will until end of phase.
+
+Plan:
+This will become a hobbit-based deck, with rangers helping out with traps. The idea is to keep enemies in the staging area and do nasty things to them while they're in there. Then optionally engage 1 per round with engagement cost higher than threat, and Unseen Strike (or other hobbit-based methods) it to death.
+
+Hmmm, I could fill out this deck with JUST Hobbit-themed cards.]]></notes>
+</deck>

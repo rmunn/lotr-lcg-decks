@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9005">Beregond</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9002">Boromir</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9005">Legolas</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9019">Bofur</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9004">Descendant of Thorondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9009">Eagles of the Misty Mountains</card>
+    <card qty="1" id="2e7f22cc-218e-4dad-b4e4-00b2208713d9">Gwaihir</card>
+    <card qty="3" id="237b31e7-d0b0-4c1e-bd4a-40a175f7d7d1">Knight of Minas Tirith</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9004">Landroval</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9022">Vassal of the Windlord</card>
+    <card qty="3" id="93a364f6-2a0f-4872-9770-aa7a1bd30d3d">Westfold Outrider</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9010">Winged Guardian</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="1" id="ae16236d-886e-4f65-9129-5ead1d373bfe">Black Arrow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9039">Blade of Gondolin</card>
+    <card qty="3" id="09134509-191b-4903-b4b5-5e650f8143c1">Gondorian Shield</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801209c9023">Rivendell Blade</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9078">Spear of the Citadel</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9019">Support of the Eagles</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="2" id="fd89bdbf-7475-4f3e-96fc-8f5315a90025">Gondorian Discipline</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9034">Feint</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9033">Foe-hammer</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9007">Hands Upon the Bow</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9008">The Eagles Are Coming!</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

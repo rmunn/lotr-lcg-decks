@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9004">Elrond</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9016">Glorfindel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9001">Aragorn</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801210c9002">Arwen Undómiel</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9008">Erestor</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9005">Gildor Inglorion</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9019">Imladris Stargazer</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9015">Master of the Forge</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9014">Faramir</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9026">Warden of Healing</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9045">Northern Tracker</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9058">Daughter of the Nimrodel</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9001">Asfaloth</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9027">Celebrían's Stone</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9027">Vilya</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9057">Unexpected Courage</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9028">Path of Need</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9020">Light of Valinor</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9027">Word of Command</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9046">The Galadhrim's Greeting</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9050">A Test of Will</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9005">Elrond's Counsel</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9011">A Very Good Tale</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9012">Resourceful</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801202c9006">Beorning Beekeeper</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9085">Veteran of Nanduhirion</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9004">Landroval</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801209c9009">Dúnedain Wanderer</card>
+    <card qty="1" id="cc7beee8-1f42-4926-8c45-8a50f3a87c57">Elrohir</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801209c9010">Elladan</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9004">Gimli</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9005">Beregond</card>
+  </section>
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Mulligan for Vilya if not in opening hand.
+Other ways to get Vilya: Gandalf+Word of Command, Master of the Forge, Imladris Stargazer. A Very Good Tale could also be pressed into service if the Stargazer is turning up nothing, as it shuffles the deck.
+
+Readying mechanics like Common Cause, Grim Resolve, etc., may not be so useful because they cannot ready Vilya, only Elrond.
+
+"Sideboarded" heroes (which might change the deck composition greatly if, say, Spirit gets dropped in favor of Tactics):
+Elrohir (Leadership) / Elladan (Tactics) - as a set
+Gimli (Tactics)
+Beregond (Tactics)
+]]></notes>
+</deck>

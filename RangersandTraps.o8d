@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="323ebfa3-57e5-4394-9f55-284b2f7ee0be">Faramir</card>
+    <card qty="1" id="536c80ba-ad8b-447e-b378-1684508eb0f9">Mirlonde</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9016">Glorfindel</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a90028">Ithilien Archer</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9048">Ithilien Tracker</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9015">Master of the Forge</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9013">Damrod</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9045">Northern Tracker</card>
+    <card qty="3" id="ef8aec20-e0c9-4d02-9dea-20b6e7c2278b">Anborn</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9071">Ranger Spikes</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a90029">Ithilien Pit</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9069">Forest Snare</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9001">Asfaloth</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9020">Light of Valinor</card>
+    <card qty="1" id="3fa0b17f-a7d1-4f0c-a779-c20cb6084e78">Ranger Bow</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9012">Resourceful</card>
+    <card qty="3" id="30e0c679-3ced-4862-a681-b67ceb8939d3">Poisoned Stakes</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="50aa4aab-6daa-4cb5-bfb1-a13db03c1a23">Forest Patrol</card>
+    <card qty="3" id="3c47d373-62bc-4321-9dc1-9b86b2046f68">Mithrandir's Advice</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9052">A Light in the Dark</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9022">Risk Some Light</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9005">Elrond's Counsel</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9046">The Galadhrim's Greeting</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9010">Daeron's Runes</card>
+    <card qty="1" id="28a27a2b-d9c9-40ab-95ec-b44eca301102">Needful to Know</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Still VERY much a work in progress. I may need to work with the physical cards a bit.]]></notes>
+</deck>

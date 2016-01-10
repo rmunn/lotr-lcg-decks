@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9016">Hama</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9009">Eagles of the Misty Mountains</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9004">Landroval</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9022">Vassal of the Windlord</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9010">Winged Guardian</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9004">Descendant of Thorondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9003">Radagast</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9019">Support of the Eagles</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801202c9007">Born Aloft</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9009">Meneldor's Flight</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9008">The Eagles Are Coming!</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9010">To the Eyrie</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[Subset - the core cards for my Eagles deck
+]]></notes>
+</deck>

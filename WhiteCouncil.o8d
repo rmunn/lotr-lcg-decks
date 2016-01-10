@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="3e055edf-4540-4cf1-94ce-afbf5fc28f82">Gandalf</card>
+    <card qty="1" id="8d6a15a8-e363-46bb-8e49-0af45a1ea0d1">Galadriel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9004">Elrond</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="e02cc17b-80e4-4a8f-ba55-1df74aac816d">Bilbo Baggins</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9005">Gildor Inglorion</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9045">Northern Tracker</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9008">Erestor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9031">Beorn</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9013">Damrod</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9014">Faramir</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9002">Haldir of Lórien</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801203c9004">Landroval</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="428256aa-e03e-4f57-9b38-b8f7b5f17578">Wizard Pipe</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9027">Vilya</card>
+    <card qty="3" id="6e97a705-2458-4aa1-ad90-f3cd8200ca5a">Mirror of Galadriel</card>
+    <card qty="3" id="17ed9b53-19f5-4ad1-ab91-14c2859e5a60">Nenya</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="8a5ff815-56cf-4d5f-a649-a111e736a9f1">Flame of Anor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9027">Word of Command</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9050">A Test of Will</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[First attempt at a White Council deck. Much experimentation still needed.
+
+Strategy: Get lots of high-cost allies into play with Vilya.
+]]></notes>
+</deck>

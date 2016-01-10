@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="bf2cb5a8-2ec6-4366-89f6-7e3010686a85">Balin</card>
+    <card qty="1" id="9e3a4b3b-7bb7-4403-984c-411af5ec8467">Mablung</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9002">Boromir</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="2e7f22cc-218e-4dad-b4e4-00b2208713d9">Gwaihir</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9004">Descendant of Thorondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9009">Eagles of the Misty Mountains</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9004">Landroval</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9022">Vassal of the Windlord</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9010">Winged Guardian</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9003">Radagast</card>
+    <card qty="3" id="d4f034b0-2444-4b61-a249-8d86e8856f7c">Squire of the Citadel</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9019">Support of the Eagles</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="1" id="83842580-bfe9-4d56-addf-e1d290eb7bcf">Heir of Mardil</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801202c9008">Dúnedain Warning</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9011">A Very Good Tale</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9023">Sneak Attack</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9008">The Eagles Are Coming!</card>
+    <card qty="3" id="add42229-f5d1-4c39-a5dd-ec00ad7d0d76">Gaining Strength</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9087">Wealth of Gondor</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4c4cccd3-576a-41f1-8b6c-ba11b4cc3d4b">Celeborn</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9007">Éowyn</card>
+    <card qty="1" id="ce96b767-c569-48b8-a998-d8009b0143c7">Pippin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9058">Daughter of the Nimrodel</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9060">Henamarth Riversong</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9016">Mirkwood Runner</card>
+    <card qty="3" id="dad6e885-d535-4100-bd9f-4726ea7c7465">Naith Guide</card>
+    <card qty="3" id="e4fd6e25-982a-464f-82d8-812269864d46">Silvan Refugee</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9014">Silvan Tracker</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9017">Silverlode Archer</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9019">Imladris Stargazer</card>
+    <card qty="3" id="b91ba94d-e6b9-41f6-89ed-df1fb1f22335">Defender of the Naith</card>
+    <card qty="3" id="bd81ff6a-9c8f-415e-85fb-da84c21ef2a4">Galadhrim Minstrel</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801202c9025">Song of Wisdom</card>
+    <card qty="3" id="b4d93180-0ebc-4a9b-9817-e761068570e3">O Lórien!</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="65d3b334-df93-43c6-9525-12674bbb7f06">Children of the Sea</card>
+    <card qty="3" id="14936075-9e6a-43af-9497-dbee9df95781">Feigned Voices</card>
+    <card qty="3" id="f39eaad9-134d-406b-9111-e03c33e0cd16">The Tree People</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9010">Daeron's Runes</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9011">A Very Good Tale</card>
+    <card qty="3" id="7465c18b-440e-4a90-8ac0-c50c0de03b5d">Desperate Alliance</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9050">A Test of Will</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[This version avoids secrecy and adds a cheap Lore hero (Pippin from TBR) for early Lore access. Another possibility would be a Tactics hero, with a lot more attachments (Dagger of Westernesse, Rivendell Blade...).
+
+Should consider the possibility of bringing in the Master of the Forge to go looking for Galadriel's ring, but Imladris Stargazer serves the same purpose. After the Stargazer looks through the top 5 cards, she can choose one for Galadriel to immediately draw. The only drawback is that she's a cost 2 Spirit ally, so she won't be available until turn 2.
+
+To consider: add a Gonder Errand-Rider for resource smoothing.
+
+PROXIES:
+Galadriel: Type: Hero Sphere: Spirit
+Proxied by: Eowyn.
+Starting Threat: 9 
+Willpower: 4 Attack: 0 Defense: 0 Hit Points: 4 
+Noldor. Noble.
+Galadriel cannot quest, attack, or defend. Allies you control do not exhaust to commit to the quest during the round they enter play.
+Action: Exhaust Galadriel to choose a player. That player reduces his threat by 1 and draws 1 card. (Limit once per round.)
+
+Island Amid Perils. Event. Cost: 0 Spirit.
+Proxied by Desperate Alliance.
+Return SIlvan ally to hand to reduce your threat by X where X is printed cost of returned ally.
+
+Island Amid Perils: Event, cost 0 Spirit. Action: Return a Silvan ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand. Many Silvan allies cost 3, a few cost 4.
+Proxied by Renewed Friendship.
+
+Nenya. Cost 1 neutral unique Attachment. Attach to Galadriel. She gains a Lore resource icon. Quest action: Exhaust Nenya and Galadriel to add her Will to another character's Will until the end of the phase.
+Proxied by Song of Wisdom.
+
+With Gandalf instead of Haldir, starting threat would become 34! Starting threat is 29 instead if Haldir is in play, or if Legolas replaces Haldir. Another possibility would be Prince Imrahil for extra Leadership, since he readies when characters leave play (which Silvans do ALL THE TIME). Also Horn of Gondor plus Silvan = sick. ]]></notes>
+</deck>

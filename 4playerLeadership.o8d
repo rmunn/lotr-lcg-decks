@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9001">Prince Imrahil</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9001">Aragorn</card>
+    <card qty="1" id="bf2cb5a8-2ec6-4366-89f6-7e3010686a85">Balin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="3d09a998-9ad0-4b98-9c42-50c4226cc73b">Galadriel</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9004">Dúnedain Watcher</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9008">Erestor</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9016">Errand-rider</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9014">Faramir</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9021">Longbeard Elder</card>
+    <card qty="3" id="d4f034b0-2444-4b61-a249-8d86e8856f7c">Squire of the Citadel</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+    <card qty="3" id="f64befcc-d4de-47a4-8517-5f2617984270">Warden of Helm's Deep</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9027">Celebrían's Stone</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9024">Cram</card>
+    <card qty="2" id="83842580-bfe9-4d56-addf-e1d290eb7bcf">Heir of Mardil</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9028">Path of Need</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9018">Sword that was Broken</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9011">A Very Good Tale</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9003">Campfire Tales</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9023">Sneak Attack</card>
+    <card qty="3" id="91f28bdf-4b78-4750-9853-65e783e4cb15">Strength of Arms</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9024">Valiant Sacrifice</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

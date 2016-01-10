@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9008">Bifur</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9025">Dwalin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="2" id="c00bdeff-c186-4d83-bf24-2142fdd39b19">Bofur</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9059">Erebor Hammersmith</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9030">Erebor Record Keeper</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801202c9014">Longbeard Map-Maker</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9061">Miner of the Iron Hills</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9045">Northern Tracker</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9012">Resourceful</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9057">Unexpected Courage</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9072">Self Preservation</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801210c9009">Legacy of Durin</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9069">Forest Snare</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9005">Ancient Mathom</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801202c9010">A Burning Brand</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9050">A Test of Will</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9053">Dwarven Tomb</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9063">Lore of Imladris</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9083">Untroubled by Darkness</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9010">Daeron's Runes</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[An old deck; I'm not quite sure where I was going with it. I think I was going for Secrecy...? Old strategy notes follow:
+
+A companion deck to be used alongside Leadership/Tactics dwarf decks.
+
+Strategy TBD once I play with this deck a bit.]]></notes>
+</deck>

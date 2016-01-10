@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4c4cccd3-576a-41f1-8b6c-ba11b4cc3d4b">Celeborn</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9007">Éowyn</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9004">Elrond</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9058">Daughter of the Nimrodel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9002">Haldir of Lórien</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9060">Henamarth Riversong</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9044">Lórien Guide</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801206c9016">Mirkwood Runner</card>
+    <card qty="1" id="dad6e885-d535-4100-bd9f-4726ea7c7465">Naith Guide</card>
+    <card qty="1" id="4b794779-c6b6-4ee0-b13f-196b721e28a7">Rúmil</card>
+    <card qty="1" id="e4fd6e25-982a-464f-82d8-812269864d46">Silvan Refugee</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9014">Silvan Tracker</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9017">Silverlode Archer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9015">Master of the Forge</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="1" id="1c692a1a-4ccf-4185-b5bd-d2b8d300de42">Leaf Brooch</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9012">Resourceful</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801202c9025">Song of Wisdom</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="1" id="b442354c-887d-403e-815b-a11f10a8760d">Lay of Nimrodel</card>
+    <card qty="1" id="65d3b334-df93-43c6-9525-12674bbb7f06">Children of the Sea</card>
+    <card qty="1" id="14936075-9e6a-43af-9497-dbee9df95781">Feigned Voices</card>
+    <card qty="1" id="f39eaad9-134d-406b-9111-e03c33e0cd16">The Tree People</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9009">Meneldor's Flight</card>
+    <card qty="1" id="ef533832-523e-40ff-9116-163485826c5b">Renewed Friendship</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[This version avoids secrecy and has all three of my Elven combo (Haldir/Galadriel/Celeborn) as heroes. However, I may pull Haldir as he doesn't contribute that much to a non-Secrecy Silvan deck.
+VERY much in progress. One card each for now just so I can look at them. Also, Galadriel can get blue/green... so should I use a Tactics hero? Or even (gasp!) GANDALF?!? Decisions galore!
+
+PROXIES:
+Haldir: Type: Hero Sphere: Lore 
+Proxied by: Bilbo Baggins
+Starting Threat: 9 
+Willpower: 2 Attack: 3 Defense: 1 Hit Points: 3 
+Silvan. Ranger. Scout. 
+Ranged.
+Combat Action: If you have not engaged an enemy this round, exhaust Haldir of Lórien to declare him as an attacker (and resolve his attack) against an enemy not engaged with you. Limit once per round. 
+
+Galadriel: Type: Hero Sphere: Spirit
+Proxied by: Eowyn.
+Starting Threat: 9 
+Willpower: 4 Attack: 0 Defense: 0 Hit Points: 4 
+Noldor. Noble.
+Galadriel cannot quest, attack, or defend. Allies you control do not exhaust to commit to the quest during the round they enter play.
+Action: Exhaust Galadriel to choose a player. That player reduces his threat by 1 and draws 1 card. (Limit once per round.)
+
+Also in the deck: Courage Awakened. Event, cost 1 Spirit. Hero gets +2 Will, return to your hand if threat 20 or less and first time played. Proxied by Lay of Nimrodel until card released.
+
+Pursuing the Enemy: Event, cost 0 Tactics. Action: Return a Silvan ally you control to your hand to choose a player. Deal 1 damage to each enemy engaged with that player.
+Proxied by Meneldor's Flight.
+
+Island Amid Perils: Event, cost 0 Spirit. Action: Return a Silvan ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand. Many Silvan allies cost 3, a few cost 4.
+Proxied by Renewed Friendship.
+
+Nenya. Cost 1 neutral unique Attachment. Attach to Galadriel. She gains a Lore resource icon. Quest action: Exhaust Nenya and Galadriel to add her Will to another character's Will until the end of the phase.
+Proxied by Song of Wisdom.
+
+With Gandalf instead of Haldir, starting threat would become 34! Starting threat is 29 instead if Haldir is in play, or if Legolas replaces Haldir. Another possibility would be Prince Imrahil for extra Leadership, since he readies when characters leave play (which Silvans do ALL THE TIME). Also Horn of Gondor plus Silvan = sick. ]]></notes>
+</deck>

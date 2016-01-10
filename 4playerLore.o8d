@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9012">Beravor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9010">Denethor</card>
+    <card qty="1" id="9d548a43-0ef8-45e6-ab95-7356d218d203">Haldir of Lórien</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9027">Dori</card>
+    <card qty="3" id="638638f0-8177-410a-bce8-9e2bbf5ad81f">Elrond</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9059">Erebor Hammersmith</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9005">Gildor Inglorion</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9062">Gléowine</card>
+    <card qty="2" id="fd89bdbf-7475-4f3e-96fc-8f5315a90028">Ithilien Archer</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9048">Ithilien Tracker</card>
+    <card qty="3" id="496b62d9-2e7c-4206-bae5-2b180fec84d1">Wandering Ent</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9026">Warden of Healing</card>
+    <card qty="1" id="c266126d-cf2d-4a61-aac7-28bac2d1ea0d">Treebeard</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801202c9010">A Burning Brand</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9001">Asfaloth</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9070">Protector of Lórien</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9071">Ranger Spikes</card>
+    <card qty="3" id="17cb8a9a-6369-4ea9-a614-02908bd7b77f">Wingfoot</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9006">Gildor's Counsel</card>
+    <card qty="3" id="3c47d373-62bc-4321-9dc1-9b86b2046f68">Mithrandir's Advice</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9065">Radagast's Cunning</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9066">Secret Paths</card>
+    <card qty="1" id="79cb32f4-053c-47e1-983d-59d64b493a76">Waters of Nimrodel</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

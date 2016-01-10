@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9016">Hama</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9012">Beravor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9005">Legolas</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9009">Eagles of the Misty Mountains</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9004">Landroval</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9022">Vassal of the Windlord</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9010">Winged Guardian</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9004">Descendant of Thorondor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9003">Radagast</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9062">Gléowine</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9005">Rivendell Minstrel</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9019">Support of the Eagles</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801202c9007">Born Aloft</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9015">Song of Battle</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9009">Meneldor's Flight</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9008">The Eagles Are Coming!</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801203c9010">To the Eyrie</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9027">Word of Command</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9064">Lórien's Wealth</card>
+  </section>
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[This deck is built around a Háma - Descendant of Thorondor - Meneldor's Flight cycle to deal 4 damage (in two sets of 2) to the staging area each round. The rest of the deck contributes to making the cycle cheaper or easier in some way.
+
+How the cycle works:
+1) Descendant of Thorondor comes into play, dealing 2 damage to an enemy in the staging area.
+2) Meneldor's Flight returns Descendant of Thorondor to your hand, triggering its "leaves play" ability and dealing another 2 damage to an enemy in the staging area. Meneldor's Flight goes to the discard pile.
+3) Háma declares as an attacker, returning Meneldor's Flight to your hand (and discarding a different card from your hand to pay for it).
+
+This cycle costs 4 resources and one card per turn, and you normally acquire 3 resources and one card per turn. Most of the rest of the deck provides assistance to this combination:
+
+Beravor provides 2 cards per turn.
+Radagast provides 1 resource per turn.
+Gléowine provides 1 card per turn.
+Rivendell Minstrel allows you to fetch Song of Battle from your deck, which in turn gives Beravor a Tactics icon, allowing her to help pay for Descendant of Thorondor.
+Horn of Gondor provides 1 resource when Descendant of Thorondor (or any other character) leaves play.
+Born Aloft can be attached to Descendant of Thorondor if you haven't drawn Meneldor's Flight yet.
+Song of Battle gives Beravor a Tactics icon, allowing her to help pay for Descendant of Thorondor.
+The Eagles Are Coming! allows you to potentially get Descendant of Thorondor out faster.
+Word of Command lets you exhaust Radagast to fetch any card in the combination that would be helpful to you.
+Lorien's Wealth adds 3 cards to your hand.
+
+The remaining cards in the deck add to the Eagle theme:
+
+Eagles of the Misty Mountains gains power as other Eagle cards leave play.
+Landroval is a powerful Eagle, who can save the life of one hero per game.
+Vassal of the Windlord is a cheap, powerful attacking Eagle, who automatically leaves play after attacking.
+Radagast not only works with the cycle, but can also heal Eagle cards.
+Winged Guardian is a reasonably-priced, powerful defending Eagle, who can either pay 1 Tactics resource or leave play after defending.
+Support of the Eagles lets one Eagle contribute its power to a Tactics hero. This can include Eagles of the Misty Mountains, whose power grows as other Eagles leave play.
+Horn of Gondor adds 1 resouce when ANY character leaves play, including Eagles. And getting attached to Eagles of the Misty Mountains as a facedown attachment DOES count as leaving play.
+Born Aloft can work with Horn of Gondor or Eagles of the Misty Mountains just as well as with Descendant of Thorondor.
+The Eagles Are Coming! fetches ALL Eagles from the first five cards of your deck, and costs 0. It's a great kickstarter.
+To the Eyrie lets you exhaust an Eagle to rescue any character that's being killed, moving it to your hand instead of the discard pile.]]></notes>
+</deck>

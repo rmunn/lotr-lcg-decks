@@ -1,5 +1,9 @@
 Aragorn the Mighty
 
+---
+Load Aragorn up with the Ring of Barahir plus lots of artifacts.
+---
+
 Hero (1)
 Aragorn (Core) x1
 

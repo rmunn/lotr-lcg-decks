@@ -1,5 +1,11 @@
 Spirited Dwarves of Lore
 
+---
+A companion deck to be used alongside Leadership/Tactics dwarf decks.
+
+Strategy TBD once I play with this deck a bit.
+---
+
 Hero (2)
 Bifur (KD) x1
 Dwalin (KD) x1

@@ -1,5 +1,9 @@
 Rohan
 
+---
+Alternate build: replace Imrahil with Aragorn (Leadership version) and add 2x Celebrian's Stone and 2x Sword that was Broken.   1x Stand and FIght, 1x Dwarven Tomb, 1x Will of the West, and 1x Ride to Ruin to stay at 50 cards. The Stone gives Aragorn a total of 4 Will (matching Eowyn for questing power) plus resource duality, and the Sword gives EVERY CHARACTER +1 Will, which is incredible in a questing deck like this one.
+---
+
 Hero (3)
 Theodred (Core) x1
 Eowyn (Core) x1

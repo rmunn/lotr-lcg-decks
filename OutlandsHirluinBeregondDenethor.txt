@@ -1,5 +1,9 @@
 Outlands: Hirluin/Beregond/Denethor
 
+---
+Everyone needs an Outlands deck. Who needs strategy when you've got Slivers... I mean Outlands allies?
+---
+
 Hero (3)
 Hirluin the Fair (TSF) x1
 Beregond (HON) x1
@@ -12,7 +16,7 @@ Ethir Swordsman (TSF) x3
 Hunter of Lamedon (HON) x3
 Knights of the Swan (TSF) x3
 Warrior of Lossarnach (TSF) x3
-Beorn (Core) x2
+Forlong (TDF) x2
 Gandalf (Core) x3
 Errand-rider (HON) x2
 Defender of Rammas (HON) x1

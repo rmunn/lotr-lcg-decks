@@ -1,5 +1,25 @@
 Elrond+Vilya
 
+---
+Mulligan for Vilya if not in opening hand.
+Other ways to get Vilya: Gandalf+Word of Command, Master of the Forge, Imladris Stargazer. A Very Good Tale could also be pressed into service if the Stargazer is turning up nothing, as it shuffles the deck.
+
+"Sideboard" for this deck (cards I'm also considering putting in as I tweak the deck):
+
+Resourceful x1-3 (as a Vilya target)
+Beorning Beekeeper x1-3 (ditto)
+Veteran of Nanduhirion x1-3 (ditto)
+Landroval x1 (ditto)
+Dúnedain Wanderer x1-2 (ditto)
+
+Readying mechanics like Common Cause, Grim Resolve, etc., may not be so useful because they cannot ready Vilya, only Elrond.
+
+"Sideboarded" heroes (which might change the deck composition greatly if, say, Spirit gets dropped in favor of Tactics):
+Elrohir (Leadership) / Elladan (Tactics) - as a set
+Gimli (Tactics)
+Beregond (Tactics)
+---
+
 Hero (3)
 Elrond (SaF) x1
 Glorfindel (FoS) x1

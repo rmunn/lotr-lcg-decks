@@ -1,5 +1,9 @@
 Core Eagles
 
+---
+MAYBE consider adding card draw with Word of Command, Song of Battle, Rivendell Minstrel, Beravor.
+---
+
 Hero (1)
 Hama (TLD) x1
 

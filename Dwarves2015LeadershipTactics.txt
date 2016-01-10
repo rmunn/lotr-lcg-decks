@@ -1,0 +1,45 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Dwarf Lead/Tact deck as it existed in April 2015. Pairs with a Spirit/Lore support deck.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Dain Ironfoot (Return to Mirkwood)
+1x Thorin Oakenshield (Over Hill and Under Hill)
+1x Thalin (Core Set)
+
+Ally: (18)
+3x Fili (Over Hill and Under Hill)
+2x Kili (Over Hill and Under Hill)
+2x Gloin (On the Doorstep)
+2x Longbeard Elder (Foundations of Stone)
+2x Bofur (Over Hill and Under Hill)
+2x Erebor Battle Master (The Long Dark)
+3x Veteran Axehand (Core Set)
+2x Gandalf (Core Set)
+
+Attachment: (12)
+2x Hardy Leadership (Shadow and Flame)
+2x King Under the Mountain (On the Doorstep)
+1x Steward of Gondor (Core Set)
+1x Song of Battle (The Dead Marshes)
+3x Dwarrowdelf Axe (Khazad-dum)
+1x Narvi's Belt (Khazad-dum)
+2x Dwarven Axe (Core Set)
+
+Event: (20)
+2x Lure of Moria (Road to Rivendell)
+2x To Me! O My Kinsfolk! (On the Doorstep)
+2x Heavy Stroke (Foundations of Stone)
+2x Khazad! Khazad! (Khazad-dum)
+3x Durin's Song (Khazad-dum)
+3x Gaining Strength (The Steward's Fear)
+3x We Are Not Idle (Shadow and Flame)
+3x Sneak Attack (Core Set)
+
+Side Quest: (undefined)
+

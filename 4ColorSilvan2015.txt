@@ -1,0 +1,49 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Silvan deck with all four colors, thanks to Galadriel and Nenya. This is the deck as it existed in April 2015. Never tested yet, so I might still tweak it.
+
+Note that Éomer might make a great replacement for Legolas. He couldn't receive a Bow of the Galadhrim, but he'd get +2 ATK every round anyway from characters constantly leaving play. But as constituted, the deck had Legolas rather than Éomer.
+
+Sideboard:
+Rivendell Bow (x1? x2?)
+Rivendell Blade x2 (character, not hero)
+Light of Valinor x2 (perhaps allowing Naith Guide to go on other heroes)
+Lembas x2
+Elven Mail x2
+Cloak of Lórien x3
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Celeborn (The Dunland Trap)
+1x Galadriel (Celebrimbor's Secret)
+1x Legolas (Core Set)
+
+Ally: (21)
+3x Rúmil (The Three Trials)
+3x Naith Guide (The Dunland Trap)
+3x Galadhrim Minstrel (Trouble in Tharbad)
+3x Galadhon Archer (The Nin-in-Eilph)
+3x Galadriel’s Handmaiden (Celebrimbor's Secret)
+3x Defender of the Naith (Trouble in Tharbad)
+3x Orophin (Celebrimbor's Secret)
+
+Attachment: (17)
+3x O Lórien! (Trouble in Tharbad)
+2x Horn of Gondor (Core Set)
+3x Bow of the Galadhrim (The Nin-in-Eilph)
+3x Mirror of Galadriel (Celebrimbor's Secret)
+3x Nenya (Celebrimbor's Secret)
+3x Protector of Lorien (Core Set)
+
+Event: (12)
+3x Feigned Voices (The Three Trials)
+3x Pursuing the Enemy (Trouble in Tharbad)
+3x The Tree People (The Dunland Trap)
+3x Island Amid Perils (The Nin-in-Eilph)
+
+Side Quest: (undefined)
+

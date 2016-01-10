@@ -1,0 +1,30 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Trying out a new Rohan deck with all the new cards available for it.
+
+Need to trim down to 50 cards now.
+
+
+Total Cards: (22)
+
+Hero: (1)
+1x Éomer (The Voice of Isengard)
+
+Ally: (6)
+3x Westfold Outrider (The Voice of Isengard)
+3x Guthlaf (The Blood of Gondor)
+
+Attachment: (13)
+3x Firefoot (The Dunland Trap)
+3x Rohan Warhorse (The Voice of Isengard)
+3x Spear of the Mark (The Morgul Vale)
+1x Dagger of Westernesse (The Black Riders)
+3x Horn of Gondor (Core Set)
+
+Event: (3)
+3x Forth Eorlingas! (The Morgul Vale)
+
+Side Quest: (undefined)
+

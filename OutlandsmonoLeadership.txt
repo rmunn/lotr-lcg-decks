@@ -1,0 +1,45 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Everyone needs an Outlands deck. Who needs strategy when you've got Slivers... I mean Outlands allies?
+
+This is a mono-Leadership build. If playing with another deck that also includes Steward of Gondor, the 4-cost cards might be replaced with a second or third copy of some of the 1-cost events like Campfire Tales, Valient Sacrifice, and Second Breakfast.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Hirluin the Fair (The Steward's Fear)
+1x Balin (On the Doorstep)
+1x Theodred (Core Set)
+
+Ally: (22)
+3x Anfalas Herdsman (The Steward's Fear)
+3x Ethir Swordsman (The Steward's Fear)
+3x Hunter of Lamedon (Heirs of Numenor)
+3x Knights of the Swan (The Steward's Fear)
+3x Warrior of Lossarnach (The Steward's Fear)
+2x Gandalf (Core Set)
+2x Errand-rider (Heirs of Numenor)
+2x Forlong (The Drúadan Forest)
+1x Erestor (The Long Dark)
+
+Attachment: (10)
+3x Steward of Gondor (Core Set)
+3x Lord of Morthond (Encounter at Amon Dîn)
+3x Tome of Atanatar (The Blood of Gondor)
+1x Path of Need (Foundations of Stone)
+
+Event: (18)
+3x A Very Good Tale (Over Hill and Under Hill)
+3x Sneak Attack (Core Set)
+2x Campfire Tales (The Hunt for Gollum)
+3x Strength of Arms (The Drúadan Forest)
+3x Men of the West (Assault on Osgiliath)
+1x Valiant Sacrifice (Core Set)
+2x Second Breakfast (Conflict at the Carrock)
+1x Timely Aid (The Redhorn Gate)
+
+Side Quest: (undefined)
+

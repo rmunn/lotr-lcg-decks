@@ -1,0 +1,73 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+This version avoids secrecy and has all three of my Elven combo (Haldir/Galadriel/Celeborn) as heroes. However, I may pull Haldir as he doesn't contribute that much to a non-Secrecy Silvan deck.
+VERY much in progress. One card each for now just so I can look at them. Also, Galadriel can get blue/green... so should I use a Tactics hero? Or even (gasp!) GANDALF?!? Decisions galore!
+
+PROXIES:
+Haldir: Type: Hero Sphere: Lore 
+Proxied by: Bilbo Baggins
+Starting Threat: 9 
+Willpower: 2 Attack: 3 Defense: 1 Hit Points: 3 
+Silvan. Ranger. Scout. 
+Ranged.
+Combat Action: If you have not engaged an enemy this round, exhaust Haldir of Lórien to declare him as an attacker (and resolve his attack) against an enemy not engaged with you. Limit once per round. 
+
+Galadriel: Type: Hero Sphere: Spirit
+Proxied by: Eowyn.
+Starting Threat: 9 
+Willpower: 4 Attack: 0 Defense: 0 Hit Points: 4 
+Noldor. Noble.
+Galadriel cannot quest, attack, or defend. Allies you control do not exhaust to commit to the quest during the round they enter play.
+Action: Exhaust Galadriel to choose a player. That player reduces his threat by 1 and draws 1 card. (Limit once per round.)
+
+Also in the deck: Courage Awakened. Event, cost 1 Spirit. Hero gets +2 Will, return to your hand if threat 20 or less and first time played. Proxied by Lay of Nimrodel until card released.
+
+Pursuing the Enemy: Event, cost 0 Tactics. Action: Return a Silvan ally you control to your hand to choose a player. Deal 1 damage to each enemy engaged with that player.
+Proxied by Meneldor's Flight.
+
+Island Amid Perils: Event, cost 0 Spirit. Action: Return a Silvan ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand. Many Silvan allies cost 3, a few cost 4.
+Proxied by Renewed Friendship.
+
+Nenya. Cost 1 neutral unique Attachment. Attach to Galadriel. She gains a Lore resource icon. Quest action: Exhaust Nenya and Galadriel to add her Will to another character's Will until the end of the phase.
+Proxied by Song of Wisdom.
+
+With Gandalf instead of Haldir, starting threat would become 34! Starting threat is 29 instead if Haldir is in play, or if Legolas replaces Haldir. Another possibility would be Prince Imrahil for extra Leadership, since he readies when characters leave play (which Silvans do ALL THE TIME). Also Horn of Gondor plus Silvan = sick. 
+
+
+Total Cards: (20)
+
+Hero: (3)
+1x Celeborn (The Dunland Trap)
+1x Eowyn (Core Set)
+1x Elrond (Shadow and Flame)
+
+Ally: (11)
+1x Daughter of the Nimrodel (Core Set)
+1x Haldir of Lorien (A Journey to Rhosgobel)
+1x Henamarth Riversong (Core Set)
+1x Lorien Guide (Core Set)
+1x Mirkwood Runner (Return to Mirkwood)
+1x Naith Guide (The Dunland Trap)
+1x Rúmil (The Three Trials)
+1x Silvan Refugee (The Drúadan Forest)
+1x Silvan Tracker (The Dead Marshes)
+1x Silverlode Archer (Core Set)
+1x Master of the Forge (Shadow and Flame)
+
+Attachment: (3)
+1x Leaf Brooch (The Three Trials)
+1x Resourceful (The Watcher in the Water)
+1x Song of Wisdom (Conflict at the Carrock)
+
+Event: (6)
+1x Lay of Nimrodel (The Morgul Vale)
+1x Children of the Sea (The Blood of Gondor)
+1x Feigned Voices (The Three Trials)
+1x The Tree People (The Dunland Trap)
+1x Meneldor's Flight (The Hills of Emyn Muil)
+1x Renewed Friendship (The Redhorn Gate)
+
+Side Quest: (undefined)
+

@@ -1,0 +1,41 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+First attempt at a White Council deck. Much experimentation still needed.
+
+Strategy: Get lots of high-cost allies into play with Vilya.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Gandalf (The Road Darkens)
+1x Galadriel (Celebrimbor's Secret)
+1x Elrond (Shadow and Flame)
+
+Ally: (26)
+3x Bilbo Baggins (The Road Darkens)
+3x Gildor Inglorion (The Hills of Emyn Muil)
+3x Northern Tracker (Core Set)
+3x Erestor (The Long Dark)
+3x Beorn (Core Set)
+3x Damrod (Heirs of Numenor)
+3x Faramir (Core Set)
+3x Haldir of Lorien (A Journey to Rhosgobel)
+2x Landroval (A Journey to Rhosgobel)
+
+Attachment: (15)
+3x Gandalf Staff (The Road Darkens)
+3x Wizard Pipe (The Road Darkens)
+3x Vilya (Shadow and Flame)
+3x Mirror of Galadriel (Celebrimbor's Secret)
+3x Nenya (Celebrimbor's Secret)
+
+Event: (9)
+3x Flame of Anor (The Road Darkens)
+3x Word of Command (The Long Dark)
+3x A Test of Will (Core Set)
+
+Side Quest: (undefined)
+

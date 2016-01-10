@@ -2,9 +2,7 @@ Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
 
 NOTES:
-Not done tweaking yet, so may still change. What I've "sideboarded" so far and may still put into the deck:
-
-... (nothing yet; still have to look more extensively at this deck)
+Dwarven Spir/Lore deck as it existed in April 2015. Pairs with Lead/Tact deck.
 
 
 Total Cards: (50)
@@ -14,31 +12,33 @@ Hero: (3)
 1x Ori (Over Hill and Under Hill)
 1x Oin (On the Doorstep)
 
-Ally: (17)
+Ally: (19)
 3x Dori (Over Hill and Under Hill)
 3x Erebor Record Keeper (Khazad-dum)
 3x Erebor Hammersmith (Core Set)
 3x Miner of the Iron Hills (Core Set)
 2x Bifur (On the Doorstep)
-1x Ithilien Tracker (Heirs of Numenor)
 2x Dwalin (On the Doorstep)
+1x Ered Nimrais Prospector (The Morgul Vale)
+2x Blue Mountain Trader (The Dunland Trap)
 
-Attachment: (19)
+Attachment: (15)
 2x Song of Travel (The Hills of Emyn Muil)
-2x Dwarven Axe (Core Set)
+1x Dwarven Axe (Core Set)
 2x A Burning Brand (Conflict at the Carrock)
 2x Legacy of Durin (The Watcher in the Water)
-3x Self Preservation (Core Set)
+1x Self Preservation (Core Set)
 3x Healing Herbs (Foundations of Stone)
-2x Thror's Key (On the Doorstep)
+1x Thror's Key (On the Doorstep)
 3x Unexpected Courage (Core Set)
 
-Event: (14)
+Event: (16)
 3x Daeron's Runes (Foundations of Stone)
 3x Ravens of the Mountain (On the Doorstep)
 3x A Test of Will (Core Set)
-3x A Watchful Peace (Heirs of Numenor)
+2x A Watchful Peace (Heirs of Numenor)
 2x Untroubled by Darkness (Khazad-dum)
+3x Ancestral Knowledge (Khazad-dum)
 
 Side Quest: (undefined)
 

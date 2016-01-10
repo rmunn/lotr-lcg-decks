@@ -1,6 +1,6 @@
-Eagles with card draw
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
----
+NOTES:
 This deck is built around a Háma - Descendant of Thorondor - Meneldor's Flight cycle to deal 4 damage (in two sets of 2) to the staging area each round. The rest of the deck contributes to making the cycle cheaper or easier in some way.
 
 How the cycle works:
@@ -33,37 +33,38 @@ Horn of Gondor adds 1 resouce when ANY character leaves play, including Eagles. 
 Born Aloft can work with Horn of Gondor or Eagles of the Misty Mountains just as well as with Descendant of Thorondor.
 The Eagles Are Coming! fetches ALL Eagles from the first five cards of your deck, and costs 0. It's a great kickstarter.
 To the Eyrie lets you exhaust an Eagle to rescue any character that's being killed, moving it to your hand instead of the discard pile.
----
-
-Hero (3)
-Hama (TLD) x1
-Beravor (Core) x1
-Legolas (Core) x1
 
 
-Ally (24)
-Eagles of the Misty Mountains (RtM) x3
-Landroval (AJtR) x3
-Vassal of the Windlord (TDM) x3
-Winged Guardian (THfG) x3
-Descendant of Thorondor (THoEM) x3
-Radagast (AJtR) x3
-Gleowine (Core) x3
-Rivendell Minstrel (THFG) x3
 
+Total Cards: (50)
 
-Attachment (11)
-Support of the Eagles (RtM) x3
-Horn of Gondor (Core) x3
-Born Aloft (CatC) x2
-Song of Battle (TDM) x3
+Hero: (3)
+1x Hama (The Long Dark)
+1x Beravor (Core Set)
+1x Legolas (Core Set)
 
+Ally: (24)
+3x Eagles of the Misty Mountains (Return to Mirkwood)
+3x Landroval (A Journey to Rhosgobel)
+3x Vassal of the Windlord (The Dead Marshes)
+3x Winged Guardian (The Hunt for Gollum)
+3x Descendant of Thorondor (The Hills of Emyn Muil)
+3x Radagast (A Journey to Rhosgobel)
+3x Gleowine (Core Set)
+3x Rivendell Minstrel (The Hunt for Gollum)
 
-Event (15)
-Meneldor's Flight (THoEM) x3
-The Eagles Are Coming! (THfG) x3
-To the Eyrie (AJtR) x3
-Word of Command (TLD) x3
-Lorien's Wealth (Core) x3
+Attachment: (11)
+3x Support of the Eagles (Return to Mirkwood)
+3x Horn of Gondor (Core Set)
+2x Born Aloft (Conflict at the Carrock)
+3x Song of Battle (The Dead Marshes)
 
+Event: (15)
+3x Meneldor's Flight (The Hills of Emyn Muil)
+3x The Eagles Are Coming! (The Hunt for Gollum)
+3x To the Eyrie (A Journey to Rhosgobel)
+3x Word of Command (The Long Dark)
+3x Lorien's Wealth (Core Set)
+
+Side Quest: (undefined)
 

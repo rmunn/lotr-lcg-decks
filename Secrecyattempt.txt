@@ -1,38 +1,39 @@
-Secrecy attempt
-
----
-An attempt at a Spirit/Lore secrecy deck - might need tweaking
----
-
-Hero (2)
-Aragorn (TWitW) x1
-Glorfindel (FoS) x1
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
 
-Ally (15)
-Arwen Undomiel (TWitW) x2
-Bofur (TRG) x2
-Elfhelm (TDM) x2
-Escort from Edoras (AJtR) x3
-Northern Tracker (Core) x3
-Warden of Healing (TLD) x3
+NOTES:
+An attempt at a Spirit/Lore secrecy deck - might (scratch that, WILL) need tweaking.
 
 
-Attachment (12)
-Asfaloth (FoS) x3
-Light of Valinor (FoS) x3
-Resourceful (TWitW) x3
-Unexpected Courage (Core) x3
+Total Cards: (50)
 
+Hero: (2)
+1x Aragorn (The Watcher in the Water)
+1x Glorfindel (Foundations of Stone)
 
-Event (23)
-A Test of Will (Core) x3
-Elrond's Counsel (TWitW) x3
-Daeron's Runes (FoS) x3
-Lore of Imladris (Core) x3
-Hasty Stroke (Core) x3
-Out of Sight (TLD) x3
-The Galadhrim's Greeting (Core) x3
-Dwarven Tomb (Core) x2
+Ally: (15)
+2x Arwen Undomiel (The Watcher in the Water)
+2x Bofur (The Redhorn Gate)
+2x Elfhelm (The Dead Marshes)
+3x Escort from Edoras (A Journey to Rhosgobel)
+3x Northern Tracker (Core Set)
+3x Warden of Healing (The Long Dark)
 
+Attachment: (12)
+3x Asfaloth (Foundations of Stone)
+3x Light of Valinor (Foundations of Stone)
+3x Resourceful (The Watcher in the Water)
+3x Unexpected Courage (Core Set)
+
+Event: (23)
+3x A Test of Will (Core Set)
+3x Elrond's Counsel (The Watcher in the Water)
+3x Daeron's Runes (Foundations of Stone)
+3x Lore of Imladris (Core Set)
+3x Hasty Stroke (Core Set)
+3x Out of Sight (The Long Dark)
+3x The Galadhrim's Greeting (Core Set)
+2x Dwarven Tomb (Core Set)
+
+Side Quest: (undefined)
 

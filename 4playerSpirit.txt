@@ -1,0 +1,43 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+From http://talesfromthecards.wordpress.com/2014/12/30/deck-building-101-four-player-decks-mono-sphere/
+
+Strategy: Quest and stop treacheries.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Eowyn (Core Set)
+1x Glorfindel (Foundations of Stone)
+1x Eleanor (Core Set)
+
+Ally: (22)
+2x Arwen Undomiel (The Watcher in the Water)
+2x Emery (The Blood of Gondor)
+3x Ethir Swordsman (The Steward's Fear)
+3x Greyflood Wanderer (The Three Trials)
+3x Minas Tirith Lampwright (Encounter at Amon Dîn)
+3x Pelargir Shipwright (Assault on Osgiliath)
+3x Northern Tracker (Core Set)
+3x The Riddermark's Finest (The Hills of Emyn Muil)
+
+Attachment: (14)
+3x Ancient Mathom (A Journey to Rhosgobel)
+2x Blood of Numenor (Heirs of Numenor)
+3x Light of Valinor (Foundations of Stone)
+2x Thror's Key (On the Doorstep)
+2x Unexpected Courage (Core Set)
+2x Warden of Anor (The Three Trials)
+
+Event: (14)
+3x A Test of Will (Core Set)
+2x Dwarven Tomb (Core Set)
+3x Hasty Stroke (Core Set)
+3x Stand and Fight (Core Set)
+3x The Galadhrim's Greeting (Core Set)
+
+Side Quest: (undefined)
+

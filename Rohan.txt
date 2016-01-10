@@ -1,40 +1,46 @@
-Rohan
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
----
+
+
+NOTES:
+One of my very early Rohan deck builds, this needs a lot of tweaking now that The Dunland Trap is out, and will take even more when Eomer becomes available. Old strategy notes follow:
+
 Alternate build: replace Imrahil with Aragorn (Leadership version) and add 2x Celebrian's Stone and 2x Sword that was Broken.   1x Stand and FIght, 1x Dwarven Tomb, 1x Will of the West, and 1x Ride to Ruin to stay at 50 cards. The Stone gives Aragorn a total of 4 Will (matching Eowyn for questing power) plus resource duality, and the Sword gives EVERY CHARACTER +1 Will, which is incredible in a questing deck like this one.
----
-
-Hero (3)
-Theodred (Core) x1
-Eowyn (Core) x1
-Prince Imrahil (AJtR) x1
 
 
-Ally (20)
-Westfold Horse-Breaker (THfG) x3
-West Road Traveller (RtM) x3
-The Riddermark's Finest (THoEM) x3
-Rider of the Mark (RtR) x2
-Escort from Edoras (AJtR) x3
-Eomund (CatC) x2
-Elfhelm (TDM) x2
-Faramir (Core) x2
 
 
-Attachment (7)
-Nor am I a Stranger (CatC) x2
-Steward of Gondor (Core) x2
-Unexpected Courage (Core) x3
+Total Cards: (50)
 
+Hero: (3)
+1x Theodred (Core Set)
+1x Eowyn (Core Set)
+1x Prince Imrahil (A Journey to Rhosgobel)
 
-Event (23)
-Astonishing Speed (RtM) x3
-Mustering the Rohirrim (THfG) x3
-Ride to Ruin (THoEM) x3
-We Do Not Sleep (TDM) x2
-Dwarven Tomb (Core) x3
-Stand and Fight (Core) x3
-Will of the West (Core) x3
-Sneak Attack (Core) x3
+Ally: (20)
+3x Westfold Horse-Breaker (The Hunt for Gollum)
+3x West Road Traveller (Return to Mirkwood)
+3x The Riddermark's Finest (The Hills of Emyn Muil)
+2x Rider of the Mark (Road to Rivendell)
+3x Escort from Edoras (A Journey to Rhosgobel)
+2x Eomund (Conflict at the Carrock)
+2x Elfhelm (The Dead Marshes)
+2x Faramir (Core Set)
 
+Attachment: (7)
+2x Nor am I a Stranger (Conflict at the Carrock)
+2x Steward of Gondor (Core Set)
+3x Unexpected Courage (Core Set)
+
+Event: (23)
+3x Astonishing Speed (Return to Mirkwood)
+3x Mustering the Rohirrim (The Hunt for Gollum)
+3x Ride to Ruin (The Hills of Emyn Muil)
+2x We Do Not Sleep (The Dead Marshes)
+3x Dwarven Tomb (Core Set)
+3x Stand and Fight (Core Set)
+3x Will of the West (Core Set)
+3x Sneak Attack (Core Set)
+
+Side Quest: (undefined)
 

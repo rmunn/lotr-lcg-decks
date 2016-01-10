@@ -1,0 +1,45 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+From http://talesfromthecards.wordpress.com/2014/12/30/deck-building-101-four-player-decks-mono-sphere/
+
+Strategy: Build up resources, give them to others with Errand-Rider, ready characters with Cram and Strength of Arms, give card draw with Valiant Sacrifice, all kinds of party help.
+
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Prince Imrahil (A Journey to Rhosgobel)
+1x Aragorn (Core Set)
+1x Balin (On the Doorstep)
+
+Ally: (23)
+1x Galadriel (The Road Darkens)
+3x Dunedain Watcher (The Dead Marshes)
+2x Erestor (The Long Dark)
+3x Errand-rider (Heirs of Numenor)
+2x Faramir (Core Set)
+3x Longbeard Elder (Foundations of Stone)
+3x Squire of the Citadel (The Blood of Gondor)
+3x Gandalf (Core Set)
+3x Warden of Helm’s Deep (The Antlered Crown)
+
+Attachment: (14)
+2x Celebrian's Stone (Core Set)
+3x Cram (Over Hill and Under Hill)
+2x Heir of Mardil (Celebrimbor's Secret)
+1x Path of Need (Foundations of Stone)
+3x Steward of Gondor (Core Set)
+3x Sword that was Broken (The Watcher in the Water)
+
+Event: (13)
+3x A Very Good Tale (Over Hill and Under Hill)
+2x Campfire Tales (The Hunt for Gollum)
+3x Sneak Attack (Core Set)
+3x Strength of Arms (The Drúadan Forest)
+2x Valiant Sacrifice (Core Set)
+
+Side Quest: (undefined)
+

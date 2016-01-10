@@ -1,6 +1,7 @@
-Elrond+Vilya
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
----
+
+NOTES:
 Mulligan for Vilya if not in opening hand.
 Other ways to get Vilya: Gandalf+Word of Command, Master of the Forge, Imladris Stargazer. A Very Good Tale could also be pressed into service if the Stargazer is turning up nothing, as it shuffles the deck.
 
@@ -18,42 +19,42 @@ Readying mechanics like Common Cause, Grim Resolve, etc., may not be so useful b
 Elrohir (Leadership) / Elladan (Tactics) - as a set
 Gimli (Tactics)
 Beregond (Tactics)
----
-
-Hero (3)
-Elrond (SaF) x1
-Glorfindel (FoS) x1
-Aragorn (Core) x1
 
 
-Ally (24)
-Arwen Undomiel (TWitW) x2
-Erestor (TLD) x2
-Gildor Inglorion (THoEM) x2
-Imladris Stargazer (FoS) x3
-Master of the Forge (SaF) x3
-Faramir (Core) x2
-Warden of Healing (TLD) x3
-Northern Tracker (Core) x3
-Gandalf (Core) x3
-Daughter of the Nimrodel (Core) x1
+Total Cards: (50)
 
+Hero: (3)
+1x Elrond (Shadow and Flame)
+1x Glorfindel (Foundations of Stone)
+1x Aragorn (Core Set)
 
-Attachment (14)
-Steward of Gondor (Core) x1
-Asfaloth (FoS) x2
-Celebrian's Stone (Core) x3
-Vilya (SaF) x3
-Unexpected Courage (Core) x2
-Path of Need (FoS) x1
-Light of Valinor (FoS) x2
+Ally: (24)
+2x Arwen Undomiel (The Watcher in the Water)
+2x Erestor (The Long Dark)
+2x Gildor Inglorion (The Hills of Emyn Muil)
+3x Imladris Stargazer (Foundations of Stone)
+3x Master of the Forge (Shadow and Flame)
+2x Faramir (Core Set)
+3x Warden of Healing (The Long Dark)
+3x Northern Tracker (Core Set)
+3x Gandalf (Core Set)
+1x Daughter of the Nimrodel (Core Set)
 
+Attachment: (14)
+1x Steward of Gondor (Core Set)
+2x Asfaloth (Foundations of Stone)
+3x Celebrian's Stone (Core Set)
+3x Vilya (Shadow and Flame)
+2x Unexpected Courage (Core Set)
+1x Path of Need (Foundations of Stone)
+2x Light of Valinor (Foundations of Stone)
 
-Event (12)
-Word of Command (TLD) x2
-The Galadhrim's Greeting (Core) x2
-A Test of Will (Core) x3
-Elrond's Counsel (TWitW) x3
-A Very Good Tale (OHaUH) x2
+Event: (12)
+2x Word of Command (The Long Dark)
+2x The Galadhrim's Greeting (Core Set)
+3x A Test of Will (Core Set)
+3x Elrond's Counsel (The Watcher in the Water)
+2x A Very Good Tale (Over Hill and Under Hill)
 
+Side Quest: (undefined)
 

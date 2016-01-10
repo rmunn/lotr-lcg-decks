@@ -4,7 +4,7 @@ Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 NOTES:
 Mono-tactics Eagles deck, with a lot of potential for damaging enemies in the staging area.
 
-"Gandalf" cards are proxies for Gwaihir until he is released.
+This is the version of the deck that existed as of April 2015.
 
 
 Total Cards: (50)
@@ -21,24 +21,25 @@ Ally: (19)
 3x Winged Guardian (The Hunt for Gollum)
 3x Descendant of Thorondor (The Hills of Emyn Muil)
 2x Radagast (A Journey to Rhosgobel)
-3x Gandalf (Core Set)
+3x Gwaihir (Trouble in Tharbad)
 
-Attachment: (13)
+Attachment: (11)
 3x Support of the Eagles (Return to Mirkwood)
-3x Horn of Gondor (Core Set)
-2x Born Aloft (Conflict at the Carrock)
+3x Born Aloft (Conflict at the Carrock)
 2x Great Yew Bow (On the Doorstep)
 2x Rivendell Blade (Road to Rivendell)
 1x Black Arrow (On the Doorstep)
 
-Event: (18)
+Event: (20)
 2x Meneldor's Flight (The Hills of Emyn Muil)
 3x The Eagles Are Coming! (The Hunt for Gollum)
 3x To the Eyrie (A Journey to Rhosgobel)
-2x Foe-hammer (Over Hill and Under Hill)
+1x Foe-hammer (Over Hill and Under Hill)
 3x Hands Upon the Bow (Shadow and Flame)
 3x Blade Mastery (Core Set)
 2x Straight Shot (On the Doorstep)
+2x Quick Strike (Core Set)
+1x Thicket of Spears (Core Set)
 
 Side Quest: (undefined)
 

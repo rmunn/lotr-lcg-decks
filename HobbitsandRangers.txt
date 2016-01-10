@@ -1,7 +1,10 @@
-Hobbits and Rangers
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
----
-Not yet in deckbuilder:
+
+NOTES:
+Still in process.
+
+Not yet in deckbuilder (UPDATE: now they are, so add them):
 
 Anborn (unique cost 4 Lore ally)
 1/3/1, 3 HP. Gondor. Ranger. Action: Exhaust Anborn to return 1 Trap card from your discard pile to your hand.
@@ -22,13 +25,13 @@ Sam Gamgee (unique threat cost 8 Leadership hero)
 Barliman Butterbur (unique cost 2 Lore ally)
 1/0/1, 3 HP. Bree. If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur.
 
-Take No Notice (cost 3->0 Lore event)
+Take No Notice (cost 3-&gt;0 Lore event)
 Lower the cost to play Take No Notice by 1 for each Hobbit or Ranger hero you control. Action: Add 5 to each enemy's engagement cost until the end of the round.
 
 Hobbit Cloak (cost 1 Leadership attachment)
 Attach to a Hobbit hero. Limit 1 per hero. Attached hero gets +2 D when defending against an attack made by an enemy with an engagement cost higher than your threat.
 
-Bill the Pony (cost 2->0 Leadership ally)
+Bill the Pony (cost 2-&gt;0 Leadership ally)
 Lower the cost to play Bill the Pony by 2 if you control Sam Gamgee. Cannot have attachments. Each Hobbit character gets +1 hit point.
 
 Dagger of Westernesse (cost 1 Tactics attachment)
@@ -52,30 +55,30 @@ Plan:
 This will become a hobbit-based deck, with rangers helping out with traps. The idea is to keep enemies in the staging area and do nasty things to them while they're in there. Then optionally engage 1 per round with engagement cost higher than threat, and Unseen Strike (or other hobbit-based methods) it to death.
 
 Hmmm, I could fill out this deck with JUST Hobbit-themed cards.
----
-
-Hero (3)
-Bilbo Baggins (THFG) x1
-Frodo Baggins (CatC) x1
-Pippin (EaAD) x1
 
 
-Ally (3)
-Ithilien Archer (EaAD) x1
-Keen-eyed Took (THoEM) x1
-Wandering Took (Core) x1
+Total Cards: (10)
 
+Hero: (3)
+1x Bilbo Baggins (The Hunt for Gollum)
+1x Frodo Baggins (Conflict at the Carrock)
+1x Pippin (Encounter at Amon Dîn)
 
-Attachment (4)
-Boots from Erebor (KD) x1
-Fast Hitch (TDM) x1
-Good Meal (TRG) x1
-Ring Mail (TLD) x1
+Ally: (3)
+1x Ithilien Archer (Encounter at Amon Dîn)
+1x Keen-eyed Took (The Hills of Emyn Muil)
+1x Wandering Took (Core Set)
 
+Attachment: (4)
+1x Boots from Erebor (Khazad-dum)
+1x Fast Hitch (The Dead Marshes)
+1x Good Meal (The Redhorn Gate)
+1x Ring Mail (The Long Dark)
 
-Event (3)
-Hobbit-sense (EaAD) x1
-Short Cut (TWitW) x1
-Small Target (EaAD) x1
+Event: (3)
+1x Hobbit-sense (Encounter at Amon Dîn)
+1x Short Cut (The Watcher in the Water)
+1x Small Target (Encounter at Amon Dîn)
 
+Side Quest: (undefined)
 

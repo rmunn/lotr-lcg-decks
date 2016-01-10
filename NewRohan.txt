@@ -1,0 +1,44 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Trying out a new Rohan deck with all the new cards available for it.
+
+I wonder if I should add some combos? Like Out of Sight / The Hammer-Stroke? This seems ally-heavy; maybe I could drop West Road Traveller? We'll see.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Éomer (The Voice of Isengard)
+1x Eowyn (Core Set)
+1x Dunhere (Core Set)
+
+Ally: (20)
+3x Westfold Horse-breeder (The Voice of Isengard)
+3x Westfold Outrider (The Voice of Isengard)
+2x Eomund (Conflict at the Carrock)
+1x Guthlaf (The Blood of Gondor)
+3x Westfold Horse-Breaker (The Hunt for Gollum)
+2x Escort from Edoras (A Journey to Rhosgobel)
+3x The Riddermark's Finest (The Hills of Emyn Muil)
+3x West Road Traveller (Return to Mirkwood)
+
+Attachment: (16)
+3x Firefoot (The Dunland Trap)
+3x Rohan Warhorse (The Voice of Isengard)
+3x Steed of the Mark (The Morgul Vale)
+3x Spear of the Mark (The Morgul Vale)
+1x Dagger of Westernesse (The Black Riders)
+3x Horn of Gondor (Core Set)
+
+Event: (14)
+3x Astonishing Speed (Return to Mirkwood)
+3x Forth Eorlingas! (The Morgul Vale)
+3x Mustering the Rohirrim (The Hunt for Gollum)
+3x Ride to Ruin (The Hills of Emyn Muil)
+1x We Do Not Sleep (The Dead Marshes)
+1x Will of the West (Core Set)
+
+Side Quest: (undefined)
+

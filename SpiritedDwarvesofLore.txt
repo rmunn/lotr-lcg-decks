@@ -1,40 +1,44 @@
-Spirited Dwarves of Lore
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
----
+
+NOTES:
+An old deck; I'm not quite sure where I was going with it. I think I was going for Secrecy...? Old strategy notes follow:
+
 A companion deck to be used alongside Leadership/Tactics dwarf decks.
 
 Strategy TBD once I play with this deck a bit.
----
-
-Hero (2)
-Bifur (KD) x1
-Dwalin (KD) x1
 
 
-Ally (16)
-Bofur (TRG) x2
-Erebor Hammersmith (Core) x3
-Erebor Record Keeper (KD) x2
-Longbeard Map-Maker (CatC) x3
-Miner of the Iron Hills (Core) x3
-Northern Tracker (Core) x3
 
+Total Cards: (51)
 
-Attachment (20)
-Resourceful (TWitW) x3
-Unexpected Courage (Core) x3
-Self Preservation (Core) x3
-Legacy of Durin (TWitW) x2
-Forest Snare (Core) x3
-Ancient Mathom (AJtR) x3
-A Burning Brand (CatC) x3
+Hero: (2)
+1x Bifur (Khazad-dum)
+1x Dwalin (Khazad-dum)
 
+Ally: (16)
+2x Bofur (The Redhorn Gate)
+3x Erebor Hammersmith (Core Set)
+2x Erebor Record Keeper (Khazad-dum)
+3x Longbeard Map-Maker (Conflict at the Carrock)
+3x Miner of the Iron Hills (Core Set)
+3x Northern Tracker (Core Set)
 
-Event (15)
-A Test of Will (Core) x3
-Dwarven Tomb (Core) x3
-Lore of Imladris (Core) x3
-Untroubled by Darkness (KD) x3
-Daeron's Runes (FoS) x3
+Attachment: (20)
+3x Resourceful (The Watcher in the Water)
+3x Unexpected Courage (Core Set)
+3x Self Preservation (Core Set)
+2x Legacy of Durin (The Watcher in the Water)
+3x Forest Snare (Core Set)
+3x Ancient Mathom (A Journey to Rhosgobel)
+3x A Burning Brand (Conflict at the Carrock)
 
+Event: (15)
+3x A Test of Will (Core Set)
+3x Dwarven Tomb (Core Set)
+3x Lore of Imladris (Core Set)
+3x Untroubled by Darkness (Khazad-dum)
+3x Daeron's Runes (Foundations of Stone)
+
+Side Quest: (undefined)
 

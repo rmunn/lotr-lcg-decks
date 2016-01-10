@@ -1,0 +1,55 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Single cards that might be handy for a Rohan deck. WORK IN PROGRESS.
+
+
+Total Cards: (28)
+
+Hero: (8)
+1x Dunhere (Core Set)
+1x Eowyn (Core Set)
+1x Gríma (The Voice of Isengard)
+1x Hama (The Long Dark)
+1x Theodred (Core Set)
+1x Théoden (The Morgul Vale)
+1x Éomer (The Voice of Isengard)
+1x Prince Imrahil (A Journey to Rhosgobel)
+
+Ally: (13)
+1x Eomund (Conflict at the Carrock)
+1x Guthlaf (The Blood of Gondor)
+1x Elfhelm (The Dead Marshes)
+1x Escort from Edoras (A Journey to Rhosgobel)
+1x Gleowine (Core Set)
+1x Horseback Archer (Core Set)
+1x Rider of the Mark (Road to Rivendell)
+1x Snowbourn Scout (Core Set)
+1x The Riddermark's Finest (The Hills of Emyn Muil)
+1x West Road Traveller (Return to Mirkwood)
+1x Westfold Horse-Breaker (The Hunt for Gollum)
+1x Westfold Horse-breeder (The Voice of Isengard)
+1x Westfold Outrider (The Voice of Isengard)
+
+Attachment: (6)
+1x Firefoot (The Dunland Trap)
+1x Nor am I a Stranger (Conflict at the Carrock)
+1x Rohan Warhorse (The Voice of Isengard)
+1x Spear of the Mark (The Morgul Vale)
+1x Steed of the Mark (The Morgul Vale)
+1x Horn of Gondor (Core Set)
+
+Event: (9)
+1x Astonishing Speed (Return to Mirkwood)
+1x Charge of the Rohirrim (Celebrimbor's Secret)
+1x Forth Eorlingas! (The Morgul Vale)
+1x Mustering the Rohirrim (The Hunt for Gollum)
+1x Mutual Accord (Heirs of Numenor)
+1x Ride to Ruin (The Hills of Emyn Muil)
+1x We Do Not Sleep (The Dead Marshes)
+1x Valiant Sacrifice (Core Set)
+1x Grave Cairn (The Watcher in the Water)
+
+Side Quest: (undefined)
+

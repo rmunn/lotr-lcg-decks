@@ -1,29 +1,32 @@
-Aragorn the Mighty
-
----
-Load Aragorn up with the Ring of Barahir plus lots of artifacts.
----
-
-Hero (1)
-Aragorn (Core) x1
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
 
-Ally (0)
+NOTES:
+Load Aragorn up with the Ring of Barahir plus lots of artifacts. Still very much in progress.
 
 
-Attachment (10)
-Dagger of Westernesse (TBR) x1
-Elf-stone (TBR) x1
-Horn of Gondor (Core) x1
-Palantir (AoO) x1
-Ring of Barahir (TSF) x1
-Sword that was Broken (TWitW) x1
-Thror's Key (OtD) x1
-Thror's Map (OHaUH) x1
-Celebrian's Stone (Core) x1
-Rivendell Bow (TWitW) x1
+Total Cards: (10)
+
+Hero: (1)
+1x Aragorn (Core Set)
+
+Ally: (0)
 
 
-Event (0)
+Attachment: (10)
+1x Dagger of Westernesse (The Black Riders)
+1x Elf-stone (The Black Riders)
+1x Horn of Gondor (Core Set)
+1x Palantir (Assault on Osgiliath)
+1x Ring of Barahir (The Steward's Fear)
+1x Sword that was Broken (The Watcher in the Water)
+1x Thror's Key (On the Doorstep)
+1x Thror's Map (Over Hill and Under Hill)
+1x Celebrian's Stone (Core Set)
+1x Rivendell Bow (The Watcher in the Water)
 
+Event: (0)
+
+
+Side Quest: (undefined)
 

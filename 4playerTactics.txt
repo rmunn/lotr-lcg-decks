@@ -1,0 +1,45 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+From http://talesfromthecards.wordpress.com/2014/12/30/deck-building-101-four-player-decks-mono-sphere/
+
+Strategy: Defend and attack, that's pretty much it.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Beregond (Heirs of Numenor)
+1x Boromir (The Dead Marshes)
+1x Legolas (Core Set)
+
+Ally: (21)
+2x Bofur (Over Hill and Under Hill)
+2x Descendant of Thorondor (The Hills of Emyn Muil)
+3x Eagles of the Misty Mountains (Return to Mirkwood)
+1x Gwaihir (Trouble in Tharbad)
+3x Knight of Minas Tirith (Assault on Osgiliath)
+1x Landroval (A Journey to Rhosgobel)
+3x Vassal of the Windlord (The Dead Marshes)
+3x Westfold Outrider (The Voice of Isengard)
+3x Winged Guardian (The Hunt for Gollum)
+
+Attachment: (15)
+1x Black Arrow (On the Doorstep)
+2x Blade of Gondolin (Core Set)
+3x Gondorian Shield (The Steward's Fear)
+2x Horn of Gondor (Core Set)
+2x Rivendell Blade (Road to Rivendell)
+2x Spear of the Citadel (Heirs of Numenor)
+3x Support of the Eagles (Return to Mirkwood)
+
+Event: (14)
+2x Gondorian Discipline (Encounter at Amon Dîn)
+3x Feint (Core Set)
+3x Foe-hammer (Over Hill and Under Hill)
+3x Hands Upon the Bow (Shadow and Flame)
+3x The Eagles Are Coming! (The Hunt for Gollum)
+
+Side Quest: (undefined)
+

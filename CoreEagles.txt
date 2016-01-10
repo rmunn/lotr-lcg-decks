@@ -1,31 +1,30 @@
-Core Eagles
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
----
-MAYBE consider adding card draw with Word of Command, Song of Battle, Rivendell Minstrel, Beravor.
----
+NOTES:
+Subset - the core cards for my Eagles deck
 
-Hero (1)
-Hama (TLD) x1
+Total Cards: (36)
 
+Hero: (1)
+1x Hama (The Long Dark)
 
-Ally (18)
-Eagles of the Misty Mountains (RtM) x3
-Landroval (AJtR) x3
-Vassal of the Windlord (TDM) x3
-Winged Guardian (THfG) x3
-Descendant of Thorondor (THoEM) x3
-Radagast (AJtR) x3
+Ally: (18)
+3x Eagles of the Misty Mountains (Return to Mirkwood)
+3x Landroval (A Journey to Rhosgobel)
+3x Vassal of the Windlord (The Dead Marshes)
+3x Winged Guardian (The Hunt for Gollum)
+3x Descendant of Thorondor (The Hills of Emyn Muil)
+3x Radagast (A Journey to Rhosgobel)
 
+Attachment: (9)
+3x Support of the Eagles (Return to Mirkwood)
+3x Horn of Gondor (Core Set)
+3x Born Aloft (Conflict at the Carrock)
 
-Attachment (9)
-Support of the Eagles (RtM) x3
-Horn of Gondor (Core) x3
-Born Aloft (CatC) x3
+Event: (9)
+3x Meneldor's Flight (The Hills of Emyn Muil)
+3x The Eagles Are Coming! (The Hunt for Gollum)
+3x To the Eyrie (A Journey to Rhosgobel)
 
-
-Event (9)
-Meneldor's Flight (THoEM) x3
-The Eagles Are Coming! (THfG) x3
-To the Eyrie (AJtR) x3
-
+Side Quest: (undefined)
 

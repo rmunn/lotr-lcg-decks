@@ -1,0 +1,44 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+From http://talesfromthecards.wordpress.com/2014/12/30/deck-building-101-four-player-decks-mono-sphere/
+
+Strategy: Good deck for the experienced player to take on. Give your allies card draw, healing, etc.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Beravor (Core Set)
+1x Denethor (Core Set)
+1x Haldir of Lórien (Trouble in Tharbad)
+
+Ally: (22)
+2x Dori (Over Hill and Under Hill)
+3x Elrond (The Road Darkens)
+3x Erebor Hammersmith (Core Set)
+1x Gildor Inglorion (The Hills of Emyn Muil)
+2x Gleowine (Core Set)
+2x Ithilien Archer (Encounter at Amon Dîn)
+2x Ithilien Tracker (Heirs of Numenor)
+3x Wandering Ent (Celebrimbor's Secret)
+3x Warden of Healing (The Long Dark)
+1x Treebeard (The Antlered Crown)
+
+Attachment: (15)
+3x A Burning Brand (Conflict at the Carrock)
+3x Asfaloth (Foundations of Stone)
+3x Protector of Lorien (Core Set)
+3x Ranger Spikes (Heirs of Numenor)
+3x Wingfoot (The Nin-in-Eilph)
+
+Event: (13)
+3x Gildor's Counsel (The Hills of Emyn Muil)
+3x Mithrandir's Advice (The Steward's Fear)
+3x Radagast's Cunning (Core Set)
+3x Secret Paths (Core Set)
+1x Waters of Nimrodel (The Antlered Crown)
+
+Side Quest: (undefined)
+

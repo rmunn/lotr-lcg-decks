@@ -1,0 +1,66 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+This version avoids secrecy and adds a cheap Lore hero (Pippin from TBR) for early Lore access. Another possibility would be a Tactics hero, with a lot more attachments (Dagger of Westernesse, Rivendell Blade...).
+
+Should consider the possibility of bringing in the Master of the Forge to go looking for Galadriel's ring, but Imladris Stargazer serves the same purpose. After the Stargazer looks through the top 5 cards, she can choose one for Galadriel to immediately draw. The only drawback is that she's a cost 2 Spirit ally, so she won't be available until turn 2.
+
+To consider: add a Gonder Errand-Rider for resource smoothing.
+
+PROXIES:
+Galadriel: Type: Hero Sphere: Spirit
+Proxied by: Eowyn.
+Starting Threat: 9 
+Willpower: 4 Attack: 0 Defense: 0 Hit Points: 4 
+Noldor. Noble.
+Galadriel cannot quest, attack, or defend. Allies you control do not exhaust to commit to the quest during the round they enter play.
+Action: Exhaust Galadriel to choose a player. That player reduces his threat by 1 and draws 1 card. (Limit once per round.)
+
+Island Amid Perils. Event. Cost: 0 Spirit.
+Proxied by Desperate Alliance.
+Return SIlvan ally to hand to reduce your threat by X where X is printed cost of returned ally.
+
+Island Amid Perils: Event, cost 0 Spirit. Action: Return a Silvan ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand. Many Silvan allies cost 3, a few cost 4.
+Proxied by Renewed Friendship.
+
+Nenya. Cost 1 neutral unique Attachment. Attach to Galadriel. She gains a Lore resource icon. Quest action: Exhaust Nenya and Galadriel to add her Will to another character's Will until the end of the phase.
+Proxied by Song of Wisdom.
+
+With Gandalf instead of Haldir, starting threat would become 34! Starting threat is 29 instead if Haldir is in play, or if Legolas replaces Haldir. Another possibility would be Prince Imrahil for extra Leadership, since he readies when characters leave play (which Silvans do ALL THE TIME). Also Horn of Gondor plus Silvan = sick. 
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Celeborn (The Dunland Trap)
+1x Eowyn (Core Set)
+1x Pippin (The Black Riders)
+
+Ally: (23)
+1x Daughter of the Nimrodel (Core Set)
+3x Henamarth Riversong (Core Set)
+3x Mirkwood Runner (Return to Mirkwood)
+3x Naith Guide (The Dunland Trap)
+3x Silvan Refugee (The Drúadan Forest)
+1x Silvan Tracker (The Dead Marshes)
+1x Silverlode Archer (Core Set)
+2x Imladris Stargazer (Foundations of Stone)
+3x Defender of the Naith (Trouble in Tharbad)
+3x Galadhrim Minstrel (Trouble in Tharbad)
+
+Attachment: (6)
+3x Song of Wisdom (Conflict at the Carrock)
+3x O Lórien! (Trouble in Tharbad)
+
+Event: (21)
+3x Children of the Sea (The Blood of Gondor)
+3x Feigned Voices (The Three Trials)
+3x The Tree People (The Dunland Trap)
+3x Daeron's Runes (Foundations of Stone)
+3x A Very Good Tale (Over Hill and Under Hill)
+3x Desperate Alliance (On the Doorstep)
+3x A Test of Will (Core Set)
+
+Side Quest: (undefined)
+

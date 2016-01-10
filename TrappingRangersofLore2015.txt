@@ -1,0 +1,46 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Mono-Lore Ranger/Traps deck. Still needs testing.
+
+Expert Treasure-Hunter names Attachment, usually.
+
+Consider replacing Ithilien Trackers with Ithilien Lookouts. Actually, just re-vamp the deck entirely as it's really not very good.
+
+Deck as it existed in April 2015.
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Beravor (Core Set)
+1x Faramir (Assault on Osgiliath)
+1x Mirlonde (The Drúadan Forest)
+
+Ally: (13)
+3x Anborn (The Blood of Gondor)
+2x Ered Nimrais Prospector (The Morgul Vale)
+3x Ithilien Archer (Encounter at Amon Dîn)
+2x Ithilien Tracker (Heirs of Numenor)
+3x Master of the Forge (Shadow and Flame)
+
+Attachment: (19)
+1x Expert Treasure-hunter (On the Doorstep)
+3x Forest Snare (Core Set)
+3x Ithilien Pit (Encounter at Amon Dîn)
+3x Poisoned Stakes (The Blood of Gondor)
+3x Ranger Bow (Assault on Osgiliath)
+3x Ranger Spikes (Heirs of Numenor)
+3x Scroll of Isildur (The Morgul Vale)
+
+Event: (18)
+3x Advance Warning (The Drúadan Forest)
+3x Daeron's Runes (Foundations of Stone)
+3x Forest Patrol (Assault on Osgiliath)
+3x Hidden Cache (The Morgul Vale)
+3x Infighting (A Journey to Rhosgobel)
+3x Mithrandir's Advice (The Steward's Fear)
+
+Side Quest: (0)
+

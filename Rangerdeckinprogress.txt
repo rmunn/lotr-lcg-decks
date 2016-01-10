@@ -1,0 +1,37 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+NOTES:
+Dealing with enemies in staging area before they come out. Need ways to deal with other players' threat, though. Hobbits and pipes might not work. Much thought needed.
+
+
+Total Cards: (16)
+
+Hero: (2)
+1x Faramir (Assault on Osgiliath)
+1x Mirlonde (The Drúadan Forest)
+
+Ally: (6)
+1x Anborn (The Blood of Gondor)
+1x Ithilien Archer (Encounter at Amon Dîn)
+1x Ithilien Lookout (The Dunland Trap)
+1x Ithilien Tracker (Heirs of Numenor)
+1x Henamarth Riversong (Core Set)
+1x Master of the Forge (Shadow and Flame)
+
+Attachment: (5)
+1x Ranger Bow (Assault on Osgiliath)
+1x Ranger Spikes (Heirs of Numenor)
+1x Poisoned Stakes (The Blood of Gondor)
+1x Ithilien Pit (Encounter at Amon Dîn)
+1x Hobbit Pipe (The Black Riders)
+
+Event: (5)
+1x Forest Patrol (Assault on Osgiliath)
+1x Take No Notice (The Black Riders)
+1x Needful to Know (The Redhorn Gate)
+1x Ravens of the Mountain (On the Doorstep)
+1x Smoke Rings (The Black Riders)
+
+Side Quest: (undefined)
+

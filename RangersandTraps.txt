@@ -1,43 +1,44 @@
-Rangers and Traps
-
----
-Still VERY much a work in progress. I might need to work with physical cards for a bit.
----
-
-Hero (3)
-Faramir (AoO) x1
-Mirlonde (TDF) x1
-Glorfindel (FoS) x1
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
 
 
-Ally (15)
-Ithilien Archer (EaAD) x3
-Ithilien Tracker (HON) x2
-Master of the Forge (SaF) x3
-Damrod (HON) x1
-Northern Tracker (Core) x3
-Anborn (TBoG) x3
+NOTES:
+Still VERY much a work in progress. I may need to work with the physical cards a bit.
 
 
-Attachment (19)
-Ranger Spikes (HON) x3
-Ithilien Pit (EaAD) x3
-Forest Snare (Core) x3
-Asfaloth (FoS) x2
-Light of Valinor (FoS) x1
-Ranger Bow (AoO) x1
-Resourceful (TWitW) x3
-Poisoned Stakes (TBoG) x3
+Total Cards: (54)
 
+Hero: (3)
+1x Faramir (Assault on Osgiliath)
+1x Mirlonde (The Drúadan Forest)
+1x Glorfindel (Foundations of Stone)
 
-Event (20)
-Forest Patrol (AoO) x3
-Mithrandir's Advice (TSF) x3
-A Light in the Dark (Core) x2
-Risk Some Light (SaF) x2
-Elrond's Counsel (TWitW) x3
-The Galadhrim's Greeting (Core) x3
-Daeron's Runes (FoS) x3
-Needful to Know (TRG) x1
+Ally: (15)
+3x Ithilien Archer (Encounter at Amon Dîn)
+2x Ithilien Tracker (Heirs of Numenor)
+3x Master of the Forge (Shadow and Flame)
+1x Damrod (Heirs of Numenor)
+3x Northern Tracker (Core Set)
+3x Anborn (The Blood of Gondor)
 
+Attachment: (19)
+3x Ranger Spikes (Heirs of Numenor)
+3x Ithilien Pit (Encounter at Amon Dîn)
+3x Forest Snare (Core Set)
+2x Asfaloth (Foundations of Stone)
+1x Light of Valinor (Foundations of Stone)
+1x Ranger Bow (Assault on Osgiliath)
+3x Resourceful (The Watcher in the Water)
+3x Poisoned Stakes (The Blood of Gondor)
+
+Event: (20)
+3x Forest Patrol (Assault on Osgiliath)
+3x Mithrandir's Advice (The Steward's Fear)
+2x A Light in the Dark (Core Set)
+2x Risk Some Light (Shadow and Flame)
+3x Elrond's Counsel (The Watcher in the Water)
+3x The Galadhrim's Greeting (Core Set)
+3x Daeron's Runes (Foundations of Stone)
+1x Needful to Know (The Redhorn Gate)
+
+Side Quest: (undefined)
 
